@@ -6,8 +6,7 @@ export const movies = [
     },
     {
         title: "The Matrix",
-         poster: "https://image.tmdb.org/t/p/original/309gy3jIti5UDEPGiisNpRDv6Pa.jpg",
-        poster: "",
+         poster: "https://www.limitedruns.com/media/images/productimage-picture-the-matrix-2-157226.jpg",
         description: "A computer hacker learns the true nature of his reality and his role in the war against the controllers of it."
     },
     {
